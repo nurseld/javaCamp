@@ -9,11 +9,11 @@ public class RecapDemo1 {
         int maxNum = num1;
 
         if (maxNum<num2){
-            maxNum=num2;
+            maxNum = num2;
         }
 
         if (maxNum<num3){
-            maxNum=num3;
+            maxNum = num3;
         }
 
         System.out.println("Max number = " + maxNum);
