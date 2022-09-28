@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ConditionalStatements&apos; to &apos;Conditionals&apos;&#x0D;&#x0A;- Original project: &apos;04-conditionals&apos;&#x0D;&#x0A;- Original element: &apos;ConditionalStatements&apos;&#x0D;&#x0A;- Renamed element: &apos;Conditionals&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ConditionalStatements&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ConditionalStatements.java[ConditionalStatements" matchStrategy="1" name="Conditionals" qualified="false" references="true" similarDeclarations="false" stamp="1664299018313" textual="false" version="1.0"/>
+</session>
